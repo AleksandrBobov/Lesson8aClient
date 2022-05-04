@@ -17,7 +17,10 @@ public class Main {
       out.println("Hello World!");
       String resp = in.readLine();
       System.out.println(resp);
+    } catch (IOException e) {
+      e.printStackTrace();
     }
   }
-
 }
+
+
