@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-public class Main {
+public class MainClient {
 
   public static void main(String[] args) throws IOException {
 
